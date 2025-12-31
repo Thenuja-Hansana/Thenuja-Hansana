@@ -9,6 +9,9 @@ I’m a full-stack developer obsessed with building scalable, production-ready a
 ![](https://nirzak-streak-stats.vercel.app/?user=Thenuja-Hansana&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenuja-Hansana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="./assests/snake.svg" width="2100" />
+</p>
 
 
 ### ✍️ Random Dev Quote
