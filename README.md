@@ -1,5 +1,18 @@
-## 💫 About Me:
-I’m a  <code>Full Stack Developer</code> & <code>Mobile Application Developer</code>  who obsessed with building scalable, production-ready applications — clean frontends backed by rock-solid, secure backends.  <br>I enjoy turning complex ideas into reliable systems that actually hold up under real users and real traffic.<br><br>When I’m not shipping code, you’ll find me:<br>🔹 Teaching programming concepts on **YouTube**<br>🔹 Solving **LeetCode** problems to sharpen my fundamentals<br>🔹 Exploring system design, performance, and backend architecture<br><br>I care deeply about **code quality, scalability, and real-world impact**.<br>
+<h2 align="left">Heyy there :)</h2>
+
+###
+
+<img align="right" height="280" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzcyMHhhN3o4MGwxY2tvb25jeDNlc2xsYWxreTU2YXFpMHFpcWVucyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sRAp4kA7BeldjHiOph/giphy.gif"  />
+
+###
+
+<p align="left">
+I’m a  <code>Full Stack Developer</code> & <code>Mobile Application Developer</code>  who obsessed with building<br> scalable, production-ready applications with clean frontends backed by rock-solid<br> secure backends.  <br>I enjoy turning complex ideas into reliable systems that actually hold up<br> under real users and real traffic.<br><br>When I’m not shipping code, you’ll find me:<br>🔹 Teaching programming concepts on **YouTube**<br>🔹 Solving **LeetCode** problems to sharpen my fundamentals<br>🔹 Exploring system design, performance, and backend architecture<br><br>I care deeply about **code quality, scalability, and real-world impact**.<br>
+</p>
+
+###
+
+
 
 <p align="center">
   <br>
