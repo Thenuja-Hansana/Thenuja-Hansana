@@ -56,9 +56,10 @@ const Thenuja Hansana = {
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 0 20px 50px 20px;">
-        <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,graphql" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
         <br><br>
-        <code>Java | Python | JS | TS | Go | GraphQL</code>
+        <code>Java | Python | JS | TS </code>
       </td>
     </tr>
   </thead>
@@ -70,12 +71,14 @@ const Thenuja Hansana = {
     </tr>
     <tr>
       <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top;">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,gsap,electron" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron" />
         <br><br>
-        <code>React | Next.js | TailwindCSS | GSAP | Electron</code>
+        <code>React | Next.js | TailwindCSS | Electron</code>
       </td>
       <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top; border-left: 1px solid #30363d;">
-        <img src="https://skillicons.dev/icons?i=spring,springboot,nodejs,express,nestjs,graphql,jwt" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,graphql,jwt" />
         <br><br>
         <code>Spring | Spring Boot | Node.js | Express.js | NestJS | GraphQL | JWT</code>
       </td>
@@ -87,7 +90,8 @@ const Thenuja Hansana = {
   </tr>
   <tr>
     <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top;">
-      <img src="https://skillicons.dev/icons?i=react,reactnative,kotlin" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=react,kotlin" />
       <br><br>
       <code>React Native | Kotlin</code>
     </td>
@@ -103,6 +107,7 @@ const Thenuja Hansana = {
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 10px 20px 50px 20px;">
+      <br>
       <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker,vercel,githubactions" />
       <br><br>
       <code>AWS | Google Cloud | Docker | Vercel | GitHub Actions</code>
@@ -115,12 +120,14 @@ const Thenuja Hansana = {
   </tr>
   <tr>
     <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top;">
+      <br>
       <img src="https://skillicons.dev/icons?i=figma,blender,canva" />
       <br><br>
       <code>Figma | Blender | Canva</code>
     </td>
     <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top; border-left: 1px solid #30363d;">
-      <img src="https://skillicons.dev/icons?i=jest,junit,postman,n8n" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=jest,postman,n8n" />
       <br><br>
       <code>Jest | JUnit | Postman | n8n</code>
     </td>
@@ -131,7 +138,8 @@ const Thenuja Hansana = {
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 10px 20px 40px 20px;">
-      <img src="https://skillicons.dev/icons?i=intellij,pycharm,webstorm,vscode,androidstudio,arduino,netbeans,cursor,antigravity" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=intellij,pycharm,webstorm,vscode,androidstudio,arduino" />
       <br><br>
       <code>IntelliJ | PyCharm | WebStorm | VS Code | Android Studio | Arduino | NetBeans | Cursor | Antigravity</code>
     </td>
