@@ -49,6 +49,69 @@ const Thenuja Hansana = {
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Technical%20Expertice%20&fontSize=34&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
+<table align="center">
+  <tr>
+    <th>💻 Languages</th>
+    <th>🖥️ Backend</th>
+    <th>🌐 Frontend</th>
+    <th>📱 Mobile</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+      <br>Java | Python | JS | TS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring,springboot,nodejs,express,nestjs,graphql,jwt" />
+      <br>Spring | Spring Boot | Node.js | Express.js | NestJS | GraphQL | JWT
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,gsap,electron" />
+      <br>React | Next.js | TailwindCSS | GSAP | Electron
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,reactnative,kotlin" />
+      <br>React Native | Kotlin
+    </td>
+  </tr>
+
+  <tr>
+    <th>🗄️ Database</th>
+    <th>🎨 Design & Prototype</th>
+    <th>☁️ DevOps & Cloud</th>
+    <th>⚙️ Testing & Workflow</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
+      <br>MySQL | MongoDB | PostgreSQL | Firebase
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma,blender,canva" />
+      <br>Figma | Blender | Canva
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker,vercel,githubactions" />
+      <br>AWS | Google Cloud | Docker | Vercel | GitHub Actions
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest,junit,postman" />
+      <br>Jest | JUnit | Postman
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="4">🛠️ IDEs & Tools</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <img src="https://skillicons.dev/icons?i=intellij,pycharm,webstorm,vscode,androidstudio,arduino,netbeans,cursor,antigravity" />
+      <br>IntelliJ IDEA | PyCharm | WebStorm | VS Code | Android Studio | Arduino IDE | NetBeans | Cursor | Antigravity
+    </td>
+  </tr>
+</table>
+
+
  ## Language Stack
  ![Java](https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
