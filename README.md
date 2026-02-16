@@ -49,82 +49,97 @@ const Thenuja Hansana = {
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Technical%20Expertice%20&fontSize=34&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<table align="center" style="border-collapse: collapse; text-align: center; table-layout: fixed; width: 100%; max-width: 800px; font-family: sans-serif;">
-  <tr>
-    <th colspan="2" style="padding: 25px 15px 10px 15px; font-size: 20px;">💻 Languages</th>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 0px 15px 30px 15px;">
-      <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,graphql" />
-      <div style="margin-top: 12px; line-height: 1.6;">Java | Python | JS | TS | Go | GraphQL</div>
-    </td>
-  </tr>
+<table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th colspan="2" style="padding: 40px 10px 15px 10px; font-size: 20px; text-align: center;">💻 Languages</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding: 0 20px 50px 20px;">
+        <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,graphql" />
+        <br><br>
+        <code>Java | Python | JS | TS | Go | GraphQL</code>
+      </td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <th width="50%" style="padding: 30px 10px 15px 10px; border-top: 1px solid #30363d; text-align: center;">🌐 Frontend</th>
+      <th width="50%" style="padding: 30px 10px 15px 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d; text-align: center;">🖥️ Backend</th>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top;">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,gsap,electron" />
+        <br><br>
+        <code>React | Next.js | TailwindCSS | GSAP | Electron</code>
+      </td>
+      <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top; border-left: 1px solid #30363d;">
+        <img src="https://skillicons.dev/icons?i=spring,springboot,nodejs,express,nestjs,graphql,jwt" />
+        <br><br>
+        <code>Spring | Spring Boot | Node.js | Express.js | NestJS | GraphQL | JWT</code>
+      </td>
+    </tr>
 
   <tr>
-    <th style="width: 50%; padding: 20px 15px 10px 15px;">🌐 Frontend</th>
-    <th style="width: 50%; padding: 20px 15px 10px 15px;">🖥️ Backend</th>
+    <th width="50%" style="padding: 30px 10px 15px 10px; border-top: 1px solid #30363d; text-align: center;">📱 Mobile</th>
+    <th width="50%" style="padding: 30px 10px 15px 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d; text-align: center;">🗄️ Database</th>
   </tr>
   <tr>
-    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,gsap,electron" />
-      <div style="margin-top: 12px; line-height: 1.6;">React | Next.js | TailwindCSS | GSAP | Electron</div>
-    </td>
-    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
-      <img src="https://skillicons.dev/icons?i=spring,springboot,nodejs,express,nestjs,graphql,jwt" />
-      <div style="margin-top: 12px; line-height: 1.6;">Spring | Spring Boot | Node.js | Express.js | NestJS | GraphQL | JWT</div>
-    </td>
-  </tr>
-
-  <tr>
-    <th style="width: 50%; padding: 20px 15px 10px 15px;">📱 Mobile</th>
-    <th style="width: 50%; padding: 20px 15px 10px 15px;">🗄️ Database</th>
-  </tr>
-  <tr>
-    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
+    <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top;">
       <img src="https://skillicons.dev/icons?i=react,reactnative,kotlin" />
-      <div style="margin-top: 12px; line-height: 1.6;">React Native | Kotlin</div>
+      <br><br>
+      <code>React Native | Kotlin</code>
     </td>
-    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
+    <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top; border-left: 1px solid #30363d;">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
-      <div style="margin-top: 12px; line-height: 1.6;">MySQL | MongoDB | PostgreSQL | Firebase</div>
+      <br><br>
+      <code>MySQL | MongoDB | PostgreSQL | Firebase</code>
     </td>
   </tr>
 
   <tr>
-    <th colspan="2" style="padding: 25px 15px 10px 15px; font-size: 20px;">☁️ DevOps & Cloud</th>
+    <th colspan="2" style="padding: 40px 10px 15px 10px; border-top: 1px solid #30363d; text-align: center;">☁️ DevOps & Cloud</th>
   </tr>
   <tr>
-    <td colspan="2" style="padding: 0px 15px 30px 15px;">
+    <td colspan="2" align="center" style="padding: 10px 20px 50px 20px;">
       <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker,vercel,githubactions" />
-      <div style="margin-top: 12px; line-height: 1.6;">AWS | Google Cloud | Docker | Vercel | GitHub Actions</div>
+      <br><br>
+      <code>AWS | Google Cloud | Docker | Vercel | GitHub Actions</code>
     </td>
   </tr>
 
   <tr>
-    <th style="width: 50%; padding: 20px 15px 10px 15px;">🎨 Design & Prototype</th>
-    <th style="width: 50%; padding: 20px 15px 10px 15px;">⚙️ Testing & Workflow</th>
+    <th width="50%" style="padding: 30px 10px 15px 10px; border-top: 1px solid #30363d; text-align: center;">🎨 Design & Prototype</th>
+    <th width="50%" style="padding: 30px 10px 15px 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d; text-align: center;">⚙️ Testing & Workflow</th>
   </tr>
   <tr>
-    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
+    <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top;">
       <img src="https://skillicons.dev/icons?i=figma,blender,canva" />
-      <div style="margin-top: 12px; line-height: 1.6;">Figma | Blender | Canva</div>
+      <br><br>
+      <code>Figma | Blender | Canva</code>
     </td>
-    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
+    <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top; border-left: 1px solid #30363d;">
       <img src="https://skillicons.dev/icons?i=jest,junit,postman,n8n" />
-      <div style="margin-top: 12px; line-height: 1.6;">Jest | JUnit | Postman | n8n</div>
+      <br><br>
+      <code>Jest | JUnit | Postman | n8n</code>
     </td>
   </tr>
 
   <tr>
-    <th colspan="2" style="padding: 25px 15px 10px 15px; font-size: 20px;">🛠️ IDEs & Tools</th>
+    <th colspan="2" style="padding: 40px 10px 15px 10px; border-top: 1px solid #30363d; text-align: center;">🛠️ IDEs & Tools</th>
   </tr>
   <tr>
-    <td colspan="2" style="padding: 0px 15px 30px 15px;">
+    <td colspan="2" align="center" style="padding: 10px 20px 40px 20px;">
       <img src="https://skillicons.dev/icons?i=intellij,pycharm,webstorm,vscode,androidstudio,arduino,netbeans,cursor,antigravity" />
-      <div style="margin-top: 12px; line-height: 1.6;">IntelliJ | PyCharm | WebStorm | VS Code | Android Studio | Arduino | NetBeans | Cursor | Antigravity</div>
+      <br><br>
+      <code>IntelliJ | PyCharm | WebStorm | VS Code | Android Studio | Arduino | NetBeans | Cursor | Antigravity</code>
     </td>
   </tr>
+</tbody>
 </table>
+
+
 
 
 
