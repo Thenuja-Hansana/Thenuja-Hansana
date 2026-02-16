@@ -49,13 +49,13 @@ const Thenuja Hansana = {
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Technical%20Expertice%20&fontSize=34&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; text-align: center;">
   <!-- Row 1: Languages (merged) -->
   <tr>
-    <th colspan="2">💻 Languages</th>
+    <th colspan="2" style="padding: 15px; font-size: 18px;">💻 Languages</th>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td colspan="2" style="padding: 15px;">
       <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,graphql" />
       <br>Java | Python | JS | TS | Go | GraphQL
     </td>
@@ -63,15 +63,15 @@ const Thenuja Hansana = {
 
   <!-- Row 2: Frontend & Backend -->
   <tr>
-    <th>🌐 Frontend</th>
-    <th>🖥️ Backend</th>
+    <th style="width: 50%; padding: 15px;">🌐 Frontend</th>
+    <th style="width: 50%; padding: 15px;">🖥️ Backend</th>
   </tr>
   <tr>
-    <td align="center">
+    <td style="width: 50%; padding: 15px;">
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,gsap,electron" />
       <br>React | Next.js | TailwindCSS | GSAP | Electron
     </td>
-    <td align="center">
+    <td style="width: 50%; padding: 15px;">
       <img src="https://skillicons.dev/icons?i=spring,springboot,nodejs,express,nestjs,graphql,jwt" />
       <br>Spring | Spring Boot | Node.js | Express.js | NestJS | GraphQL | JWT
     </td>
@@ -79,15 +79,15 @@ const Thenuja Hansana = {
 
   <!-- Row 3: Mobile & Database -->
   <tr>
-    <th>📱 Mobile</th>
-    <th>🗄️ Database</th>
+    <th style="width: 50%; padding: 15px;">📱 Mobile</th>
+    <th style="width: 50%; padding: 15px;">🗄️ Database</th>
   </tr>
   <tr>
-    <td align="center">
+    <td style="width: 50%; padding: 15px;">
       <img src="https://skillicons.dev/icons?i=react,reactnative,kotlin" />
       <br>React Native | Kotlin
     </td>
-    <td align="center">
+    <td style="width: 50%; padding: 15px;">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
       <br>MySQL | MongoDB | PostgreSQL | Firebase
     </td>
@@ -95,10 +95,10 @@ const Thenuja Hansana = {
 
   <!-- Row 4: DevOps & Cloud (merged) -->
   <tr>
-    <th colspan="2">☁️ DevOps & Cloud</th>
+    <th colspan="2" style="padding: 15px; font-size: 18px;">☁️ DevOps & Cloud</th>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td colspan="2" style="padding: 15px;">
       <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker,vercel,githubactions" />
       <br>AWS | Google Cloud | Docker | Vercel | GitHub Actions
     </td>
@@ -106,15 +106,15 @@ const Thenuja Hansana = {
 
   <!-- Row 5: Design & Prototype, Testing & Workflow -->
   <tr>
-    <th>🎨 Design & Prototype</th>
-    <th>⚙️ Testing & Workflow</th>
+    <th style="width: 50%; padding: 15px;">🎨 Design & Prototype</th>
+    <th style="width: 50%; padding: 15px;">⚙️ Testing & Workflow</th>
   </tr>
   <tr>
-    <td align="center">
+    <td style="width: 50%; padding: 15px;">
       <img src="https://skillicons.dev/icons?i=figma,blender,canva" />
       <br>Figma | Blender | Canva
     </td>
-    <td align="center">
+    <td style="width: 50%; padding: 15px;">
       <img src="https://skillicons.dev/icons?i=jest,junit,postman,n8n" />
       <br>Jest | JUnit | Postman | n8n
     </td>
@@ -122,10 +122,10 @@ const Thenuja Hansana = {
 
   <!-- Row 6: IDEs & Tools (merged) -->
   <tr>
-    <th colspan="2">🛠️ IDEs & Tools</th>
+    <th colspan="2" style="padding: 15px; font-size: 18px;">🛠️ IDEs & Tools</th>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td colspan="2" style="padding: 15px;">
       <img src="https://skillicons.dev/icons?i=intellij,pycharm,webstorm,vscode,androidstudio,arduino,netbeans,cursor,antigravity" />
       <br>IntelliJ IDEA | PyCharm | WebStorm | VS Code | Android Studio | Arduino IDE | NetBeans | Cursor | Antigravity
     </td>
