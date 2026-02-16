@@ -49,85 +49,79 @@ const Thenuja Hansana = {
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Technical%20Expertice%20&fontSize=34&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<table align="center" style="border-collapse: collapse; text-align: center;">
-  <!-- Row 1: Languages (merged) -->
+<table align="center" style="border-collapse: collapse; text-align: center; table-layout: fixed; width: 100%; max-width: 800px; font-family: sans-serif;">
   <tr>
-    <th colspan="2" style="padding: 15px; font-size: 18px;">💻 Languages</th>
+    <th colspan="2" style="padding: 25px 15px 10px 15px; font-size: 20px;">💻 Languages</th>
   </tr>
   <tr>
-    <td colspan="2" style="padding: 15px;">
+    <td colspan="2" style="padding: 0px 15px 30px 15px;">
       <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,graphql" />
-      <br>Java | Python | JS | TS | Go | GraphQL
+      <div style="margin-top: 12px; line-height: 1.6;">Java | Python | JS | TS | Go | GraphQL</div>
     </td>
   </tr>
 
-  <!-- Row 2: Frontend & Backend -->
   <tr>
-    <th style="width: 50%; padding: 15px;">🌐 Frontend</th>
-    <th style="width: 50%; padding: 15px;">🖥️ Backend</th>
+    <th style="width: 50%; padding: 20px 15px 10px 15px;">🌐 Frontend</th>
+    <th style="width: 50%; padding: 20px 15px 10px 15px;">🖥️ Backend</th>
   </tr>
   <tr>
-    <td style="width: 50%; padding: 15px;">
+    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,gsap,electron" />
-      <br>React | Next.js | TailwindCSS | GSAP | Electron
+      <div style="margin-top: 12px; line-height: 1.6;">React | Next.js | TailwindCSS | GSAP | Electron</div>
     </td>
-    <td style="width: 50%; padding: 15px;">
+    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
       <img src="https://skillicons.dev/icons?i=spring,springboot,nodejs,express,nestjs,graphql,jwt" />
-      <br>Spring | Spring Boot | Node.js | Express.js | NestJS | GraphQL | JWT
+      <div style="margin-top: 12px; line-height: 1.6;">Spring | Spring Boot | Node.js | Express.js | NestJS | GraphQL | JWT</div>
     </td>
   </tr>
 
-  <!-- Row 3: Mobile & Database -->
   <tr>
-    <th style="width: 50%; padding: 15px;">📱 Mobile</th>
-    <th style="width: 50%; padding: 15px;">🗄️ Database</th>
+    <th style="width: 50%; padding: 20px 15px 10px 15px;">📱 Mobile</th>
+    <th style="width: 50%; padding: 20px 15px 10px 15px;">🗄️ Database</th>
   </tr>
   <tr>
-    <td style="width: 50%; padding: 15px;">
+    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
       <img src="https://skillicons.dev/icons?i=react,reactnative,kotlin" />
-      <br>React Native | Kotlin
+      <div style="margin-top: 12px; line-height: 1.6;">React Native | Kotlin</div>
     </td>
-    <td style="width: 50%; padding: 15px;">
+    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
-      <br>MySQL | MongoDB | PostgreSQL | Firebase
+      <div style="margin-top: 12px; line-height: 1.6;">MySQL | MongoDB | PostgreSQL | Firebase</div>
     </td>
   </tr>
 
-  <!-- Row 4: DevOps & Cloud (merged) -->
   <tr>
-    <th colspan="2" style="padding: 15px; font-size: 18px;">☁️ DevOps & Cloud</th>
+    <th colspan="2" style="padding: 25px 15px 10px 15px; font-size: 20px;">☁️ DevOps & Cloud</th>
   </tr>
   <tr>
-    <td colspan="2" style="padding: 15px;">
+    <td colspan="2" style="padding: 0px 15px 30px 15px;">
       <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker,vercel,githubactions" />
-      <br>AWS | Google Cloud | Docker | Vercel | GitHub Actions
+      <div style="margin-top: 12px; line-height: 1.6;">AWS | Google Cloud | Docker | Vercel | GitHub Actions</div>
     </td>
   </tr>
 
-  <!-- Row 5: Design & Prototype, Testing & Workflow -->
   <tr>
-    <th style="width: 50%; padding: 15px;">🎨 Design & Prototype</th>
-    <th style="width: 50%; padding: 15px;">⚙️ Testing & Workflow</th>
+    <th style="width: 50%; padding: 20px 15px 10px 15px;">🎨 Design & Prototype</th>
+    <th style="width: 50%; padding: 20px 15px 10px 15px;">⚙️ Testing & Workflow</th>
   </tr>
   <tr>
-    <td style="width: 50%; padding: 15px;">
+    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
       <img src="https://skillicons.dev/icons?i=figma,blender,canva" />
-      <br>Figma | Blender | Canva
+      <div style="margin-top: 12px; line-height: 1.6;">Figma | Blender | Canva</div>
     </td>
-    <td style="width: 50%; padding: 15px;">
+    <td style="padding: 0px 15px 35px 15px; vertical-align: top;">
       <img src="https://skillicons.dev/icons?i=jest,junit,postman,n8n" />
-      <br>Jest | JUnit | Postman | n8n
+      <div style="margin-top: 12px; line-height: 1.6;">Jest | JUnit | Postman | n8n</div>
     </td>
   </tr>
 
-  <!-- Row 6: IDEs & Tools (merged) -->
   <tr>
-    <th colspan="2" style="padding: 15px; font-size: 18px;">🛠️ IDEs & Tools</th>
+    <th colspan="2" style="padding: 25px 15px 10px 15px; font-size: 20px;">🛠️ IDEs & Tools</th>
   </tr>
   <tr>
-    <td colspan="2" style="padding: 15px;">
+    <td colspan="2" style="padding: 0px 15px 30px 15px;">
       <img src="https://skillicons.dev/icons?i=intellij,pycharm,webstorm,vscode,androidstudio,arduino,netbeans,cursor,antigravity" />
-      <br>IntelliJ IDEA | PyCharm | WebStorm | VS Code | Android Studio | Arduino IDE | NetBeans | Cursor | Antigravity
+      <div style="margin-top: 12px; line-height: 1.6;">IntelliJ | PyCharm | WebStorm | VS Code | Android Studio | Arduino | NetBeans | Cursor | Antigravity</div>
     </td>
   </tr>
 </table>
