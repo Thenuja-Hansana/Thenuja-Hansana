@@ -58,7 +58,7 @@ const Thenuja Hansana = {
       <td colspan="2" align="center" style="padding: 0 20px 50px 20px;">
         <br>
         <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
-        <br><br>
+        <br>
         <code>Java | Python | JS | TS </code>
       </td>
     </tr>
@@ -73,7 +73,7 @@ const Thenuja Hansana = {
       <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top;">
         <br>
         <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron" />
-        <br><br>
+        <br>
         <code>React | Next.js | TailwindCSS | Electron</code>
       </td>
       <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top; border-left: 1px solid #30363d;">
@@ -92,12 +92,13 @@ const Thenuja Hansana = {
     <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top;">
       <br>
       <img src="https://skillicons.dev/icons?i=react,kotlin" />
-      <br><br>
+      <br>
       <code>React Native | Kotlin</code>
     </td>
     <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top; border-left: 1px solid #30363d;">
+      <br>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
-      <br><br>
+      <br>
       <code>MySQL | MongoDB | PostgreSQL | Firebase</code>
     </td>
   </tr>
@@ -109,7 +110,7 @@ const Thenuja Hansana = {
     <td colspan="2" align="center" style="padding: 10px 20px 50px 20px;">
       <br>
       <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker,vercel,githubactions" />
-      <br><br>
+      <br>
       <code>AWS | Google Cloud | Docker | Vercel | GitHub Actions</code>
     </td>
   </tr>
@@ -127,8 +128,8 @@ const Thenuja Hansana = {
     </td>
     <td width="50%" align="center" style="padding: 10px 20px 60px 20px; vertical-align: top; border-left: 1px solid #30363d;">
       <br>
-      <img src="https://skillicons.dev/icons?i=jest,postman,n8n" />
-      <br><br>
+      <img src="https://skillicons.dev/icons?i=jest,postman" />
+      <br>
       <code>Jest | JUnit | Postman | n8n</code>
     </td>
   </tr>
@@ -140,7 +141,7 @@ const Thenuja Hansana = {
     <td colspan="2" align="center" style="padding: 10px 20px 40px 20px;">
       <br>
       <img src="https://skillicons.dev/icons?i=intellij,pycharm,webstorm,vscode,androidstudio,arduino" />
-      <br><br>
+      <br>
       <code>IntelliJ | PyCharm | WebStorm | VS Code | Android Studio | Arduino | NetBeans | Cursor | Antigravity</code>
     </td>
   </tr>
